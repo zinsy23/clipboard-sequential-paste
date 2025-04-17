@@ -1,4 +1,4 @@
-# Clipboard Sequential Script
+# Clipboard Sequential Paste
 
 This script allows you to sequentially cycle through text in a file and paste it into the clipboard. This is very useful if you need to paste a series of items one after the other and you don't want to have to go back and forth between the items.
 
